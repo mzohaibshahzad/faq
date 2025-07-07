@@ -1,0 +1,18 @@
+* {
+    font-family: "Prompt", sans-serif;
+}
+
+.faq-head {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: auto;
+    letter-spacing: 0%;
+}
+
+.faq-para {
+
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
